@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<html>\n<head>\n  <title>portals component</title>\n</head>\n<body>\n  <app-button title=\"title\"></app-button>\n  <script src=\"/web-components.dc412511.js\"></script>\n</body>\n</html>"},"hash":"3964903122dd34ba1a723c350aa916df","cacheData":{}}

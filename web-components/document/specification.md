@@ -1,0 +1,4 @@
+## FuncyButton
+options
+- style
+- title
